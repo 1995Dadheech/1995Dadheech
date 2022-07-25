@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @1995Dadheech
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in machine learning and Artifical Intellegence
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on jobs
-- 📫 How to reach me sandydad690@gmail.com
+- 📫 How to reach me sanjeevdadheech@gmail.com
 
 <!---
 1995Dadheech/1995Dadheech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
